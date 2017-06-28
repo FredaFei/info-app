@@ -1,0 +1,103 @@
+{
+  "personal": {
+    "avatar": "http://static.galileo.xiaojukeji.com/static/tms/seller_avatar_256px.jpg",
+    "name": "张三",
+    "sex": "男",
+    "age": 32,
+    "IDnumber": 310381198612014621,
+    "tel": 13738888888,
+    "maritalStatus": "已婚",
+    "politicalStatus": "中共党员",
+    "jobTitle": "工程项目经理",
+    "custodyofCustody": "单位人事部门",
+    "passport": "护照（E00000000）",
+    "HongKongAndMacaoPass": "港澳通行证（C00000000）",
+    "TaiwanPass": "台湾通行证（L00058585）",
+    "entryTime": "1469281964000",
+    "riskFactor": "15%",
+    "dataIntegrity": "85%",
+    "jobSituation": [{
+      "name": "张三",
+      "job": "font-end"
+    }, {
+      "name": "张三",
+      "job": "font-end"
+    }, {
+      "name": "张三",
+      "job": "font-end"
+    }, {
+      "name": "张三",
+      "job": "font-end"
+    }, {
+      "name": "张三",
+      "job": "font-end"
+    }, {
+      "name": "张三",
+      "job": "font-end"
+    }, {
+      "name": "张三",
+      "job": "font-end"
+    }, {
+      "name": "张三",
+      "job": "font-end"
+    }, {
+      "name": "张三",
+      "job": "font-end"
+    }],
+    "outboundSituation": [{
+      "id": 1,
+      "time": 1469281964000,
+      "country": "德国",
+      "cause": "因公出差面试基本信息"
+    }, {
+      "id": 2,
+      "time": 1469281964000,
+      "country": "德国",
+      "cause": "因公出差面试基本信息"
+    }],
+    "trainSituation": [{
+      "id": 1,
+      "time": 1469281964000,
+      "content": "因公出差面试基本信息"
+    }, {
+      "id": 2,
+      "time": 1469281964000,
+      "country": "德国",
+      "content": "因公出差面试基本信息"
+    }],
+    "spouseSituation": [{
+      "id": 1,
+      "time": 1469281964000,
+      "content": "因公出差面试基本信息"
+    }, {
+      "id": 2,
+      "time": 1469281964000,
+      "content": "因公出差面试基本信息"
+    }],
+    "significantEvents": [{
+      "id": 1,
+      "time": 1469281964000,
+      "content": "因公出差面试基本信息"
+    }, {
+      "id": 2,
+      "time": 1469281964000,
+      "content": "因公出差面试基本信息"
+    }]
+  },
+  "search": {
+    "content": "this is a content"
+  },
+  "message": {
+    "name": ["学号","姓名","语文","数学","外语","物理","化学","生物","体育"],
+    "contents": {
+      "content1":["1701","程海燕",78,88,66,89,43,90,60],
+      "content2":["1702","李四",78,88,66,89,43,90,60],
+      "content3":["1703","程燕",78,88,70,89,65,90,68],
+      "content4":["1704","张梅",78,88,66,89,75,90,80],
+      "content5":["1705","赵武",78,88,80,89,43,90,60],
+      "content6":["1706","王月",78,88,76,89,90,45,75],
+      "content7":["1707","秦亮",78,88,87,89,43,90,97],
+      "content8":["1708","苏轼",78,88,66,89,43,90,88]
+    }
+  }
+}
